@@ -15,7 +15,7 @@ Convert your wordpress website into android app instantly
 
 == Description ==
 convert your WordPress site into mobile app for Android. 
-Its very easy to use, with no coding required.
+Its very easy to use, with no coding knowledge required.
 
 Step:
 1) Just fill the form (required fields -> app name,app description)
