@@ -20,8 +20,8 @@ Its very easy to use, No coding knowledge required.
 For Non WordPress Sites use - http://freeweb2app.com to Create Android App for your Website.
 
 Step:
-1) Just fill the form (required fields -> app name,app description) \new
-2) upload lcon for app \new
+1) Just fill the form (required fields -> app name,app description) \n
+2) upload lcon for app <br/>
 3) upload splash screen image
 That\'s all. 
 
