@@ -14,8 +14,10 @@ Donate link: http://freeweb2app.com/donate-us/
 Convert your wordpress website into android app instantly
 
 == Description ==
-convert your WordPress site into mobile app for Android. 
-Its very easy to use, with no coding knowledge required.
+convert your WordPress site into Android App.
+Its very easy to use, No coding knowledge required.
+
+For Non WordPress Sites use - http://freeweb2app.com to Create Android App for your Website.
 
 Step:
 1) Just fill the form (required fields -> app name,app description)
@@ -50,7 +52,7 @@ https://play.google.com/apps/publish/signup/
 
 
 == Screenshots ==
-1. create app screensot. 
+For Screenshots Visit  http://sangvish.com/wordpress-to-android-app-wordpress-plugin/
 
 == Installation ==
 1. Upload wordpress2androidapp plugin to your blog.
@@ -64,8 +66,8 @@ https://play.google.com/apps/publish/signup/
 1.0 Initial release
 
 == Frequently Asked Questions ==
-is this free?
+1) is this free?
 Yes its absolutely free
 
-shortcode to display app creation form in my website?
+2) shortcode to display app creation form in my website?
 [freeweb2app]
